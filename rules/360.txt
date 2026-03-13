@@ -1,0 +1,25 @@
+# Qihoo 360 核心域名
+domain-suffix: 360.cn
+domain-suffix: 360.com
+domain-suffix: 360safe.com
+domain-suffix: 360kuai.com
+domain-suffix: 360read.com
+domain-suffix: 360zhijia.com
+domain-suffix: qhimg.com
+domain-suffix: qhres.com
+domain-suffix: qhmsg.com
+domain-suffix: qhstatic.com
+domain-suffix: qhupdate.com
+domain-suffix: qihucdn.com
+domain-suffix: qihoo.com
+domain-suffix: qihoo360.com
+domain-suffix: 360shouji.com
+domain-suffix: 360os.com
+domain-suffix: dhcrest.com
+domain-suffix: so.com
+domain-suffix: haosou.com
+
+# 360 相关广告与统计
+domain-suffix: ad.360.cn
+domain-suffix: analytics.360.cn
+domain-suffix: stats.360.cn
