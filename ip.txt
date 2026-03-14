@@ -155,6 +155,14 @@
 # 其它
 172.64.229.45#OT-电信极速
 [2606:4700::]:2053#OT-IPV6
+
+
+
+# 优选域名
+youxuan.cf.090227.xyz#OT-CMliu
+www.visa.cn#OT-官方
+mfa.gov.ua#OT-乌克兰外交部
+www.shopify.com#OT-Shopify
 1.cloudflare.182682.xyz#OT-182682
 bestcf.top#OT-bestcf
 cdn.2020111.xyz#OT-2020111
